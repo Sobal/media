@@ -1,5 +1,5 @@
 # Sobal Media
-The imagery in this repo are free to use and modify for the purpose of reference of Sobal, its partners and projects.
+The imagery in this repo are free to use,  modify and incorporate into other media for the purpose of reference, marketing and promotion of Sobal, its partners and relevant projects.
 
 ## License
 
